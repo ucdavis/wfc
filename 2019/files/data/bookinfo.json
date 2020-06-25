@@ -48,10 +48,10 @@
                     "value013": "hot",
                     "value013a": "wl",
                     "value014": "2",
-                    "value016": "518",
-                    "value017": "1059",
-                    "value018": "146",
-                    "value019": "24",
+                    "value016": "516",
+                    "value017": "1061",
+                    "value018": "145",
+                    "value019": "18",
                     "value019a": "0",
                     "value020": "http://twitter.com/ucdavisWFC",
                     "value022": "",
@@ -788,7 +788,7 @@
             "value503": "WFC2019AnnualReport",
             "value504": "89",
             "value505": "236",
-            "value506": "1",
+            "value506": "3",
             "value507": "1",
             "value508": "http://www.3dissue.com/?utm_source=3dissue-logo&utm_medium=referral&utm_campaign=en",
             "value600": "0",
@@ -801,7 +801,7 @@
             "value703": "true",
             "value703a": "158369:158656:185487:WFC2019AnnualReport",
             "value704": "",
-            "value705": "1592936982344"
+            "value705": "1593104184397"
         }
     }
 }
